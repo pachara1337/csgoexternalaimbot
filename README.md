@@ -1,4 +1,4 @@
-***CS:GO External Aimbot
+*** CS:GO External Aimbot
 * simple csgo external aimbot
 * recommended to use with vac bypass
 
