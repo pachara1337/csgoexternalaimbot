@@ -1,6 +1,6 @@
-# csgoexternalaimbot
-*simple csgo external aimbot
-*recommended to use with vac bypass
+***CS:GO External Aimbot
+* simple csgo external aimbot
+* recommended to use with vac bypass
 
 - Clone the repo
 - Change the aimbot key to whatever you want to
