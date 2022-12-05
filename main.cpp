@@ -1,4 +1,4 @@
-﻿#include "memory.h"
+#include "memory.h"
 #include "vector.h"
 
 #include <thread>
@@ -7,8 +7,8 @@
 namespace offset
 {
 	// client
-	constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDE7964;;
-	constexpr ::std::ptrdiff_t dwEntityList = 0x4DFCE74;
+	constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDE8964;;
+	constexpr ::std::ptrdiff_t dwEntityList = 0x4DFDE84;
 
 	// engine
 	constexpr ::std::ptrdiff_t dwClientState = 0x59F194;
